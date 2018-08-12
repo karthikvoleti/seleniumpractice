@@ -25,7 +25,7 @@ Thread.sleep(10000);
 	public static void main(String[] args) throws Exception{
 		// TODO Auto-generated method stub
 		
-		DriverSetUp obj= new DriverSetUp();
+		//DriverSetUp obj= new DriverSetUp();
 		//obj.driverOpen();
 		
 		
