@@ -46,7 +46,7 @@ public class Register {
 	Global.driver.get("http://newtours.demoaut.com/");
 	Global.driver.manage().window().maximize();
 	Thread.sleep(10000);
-
+    //check for the status of the branch
 	}
 	}
 
